@@ -1,2 +1,2 @@
 # lab2exercise3
-# Test first change commit for Jenkins
+# Test first change commit for Jenkins pipelines
